@@ -1,0 +1,14 @@
+<svg width="220" height="70" viewBox="0 0 220 70" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#ff00ff; stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#00aaff; stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Updated Text Positions to Prevent Cutting -->
+    <text x="10" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="url(#gradient)">ALISHBA</text>
+    <text x="10" y="65" font-family="Arial" font-size="24" font-weight="bold" fill="white">FAHIM</text>
+
+
+</svg>
