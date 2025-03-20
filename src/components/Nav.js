@@ -1,7 +1,7 @@
 import React from 'react';
 // Import icons
-import { BiClipboard, BiHomeAlt, BiUser } from 'react-icons/bi';
-import { BsClipboard2Data, BsBriefcase, BsChatSquare, BsChatSquareText } from 'react-icons/bs';
+import { BiHomeAlt, BiUser } from 'react-icons/bi';
+import { BsClipboard2Data, BsBriefcase, BsChatSquareText } from 'react-icons/bs';
 // Import smooth scrolling link
 import { Link } from 'react-scroll';
 

@@ -72,12 +72,12 @@ const Services = () => {
 
                     <div className="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="/"
                         className="btn w-8 h-8 flex justify-center items-center"
                       >
                         <BsArrowUpRight />
                       </a>
-                      <a href="#" className="text-gradient text-sm">
+                      <a href="/" className="text-gradient text-sm">
                         {link}
                       </a>
                     </div>
